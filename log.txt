@@ -1,0 +1,27 @@
+Column count doesn't match value count at row 1
+Column count doesn't match value count at row 119/Jan/2019 06:47:36 am
+Column count doesn't match value count at row 119/Jan/2019 06:48:42 am 
+Column count doesn't match value count at row 119/01/2019 06:50:53 am 
+Column count doesn't match value count at row 119/01/2019 06:51:17 am 
+Column count doesn't match value count at row 1 19/01/2019 06:52:03 am
+Unknown column 'contact' in 'field list' 19/01/2019 06:53:08 am
+Unknown column 'contact' in 'field list' 19/01/2019 06:53:13 am
+You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '","F","MORIS@GMAIL.COM","","7c4a8d09ca3762af61e59520943dc26494f8941b","154788548' at line 2 /kcador/enrollBAckend.php 19/01/2019 09:11:24 am
+You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '","F","MORIS@GMAIL.COM","","7c4a8d09ca3762af61e59520943dc26494f8941b","154788556' at line 2 PAGE =>/kcador/enrollBAckend.php 19/01/2019 09:12:49 am
+You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '","F","MORIS@GMAIL.COM","","7c4a8d09ca3762af61e59520943dc26494f8941b","154788606' at line 2 PAGE =>/kcador/enrollBAckend.php 19/01/2019 09:21:01 am
+Duplicate entry '' for key 'username' PAGE =>/kcador/enrollBAckend.php 19/01/2019 09:23:26 am
+Duplicate entry '' for key 'username' PAGE =>/kcador/enrollBAckend.php 19/01/2019 09:30:12 am
+Duplicate entry '' for key 'username' PAGE =>/kcador/enrollBAckend.php 19/01/2019 09:30:24 am
+Duplicate entry '' for key 'username' PAGE =>/kcador/enrollBAckend.php 19/01/2019 09:31:13 am
+Duplicate entry '' for key 'username' PAGE =>/kcador/enrollBAckend.php 19/01/2019 09:31:38 am
+Unknown column 'idw' in 'field list' PAGE =>/kcador/forgotpassword/forgotpassword.php 19/01/2019 12:44:01 pm
+Unknown column 'idw' in 'field list' PAGE =>/kcador/forgotpassword/forgotpassword.php 19/01/2019 12:46:02 pm
+Unknown column 'idw' in 'field list' PAGE =>/kcador/forgotpassword/forgotpassword.php 19/01/2019 12:46:29 pm
+Unknown column 'idw' in 'field list' PAGE =>/kcador/forgotpassword/forgotpassword.php 19/01/2019 12:48:17 pm
+Unknown column 'idw' in 'field list' PAGE =>/kcador/forgotpassword/forgotpassword.php 19/01/2019 12:49:08 pm
+Unknown column 'idw' in 'field list' PAGE =>/kcador/forgotpassword/forgotpassword.php 19/01/2019 12:51:32 pm
+Table 'kcador.services' doesn't exist PAGE =>/kcador/admin/services.php 23/01/2019 06:16:02 am
+Table 'kcador.services' doesn't exist PAGE =>/kcador/admin/services.php 23/01/2019 06:17:52 am
+Table 'kcador.services' doesn't exist PAGE =>/kcador/admin/services.php 23/01/2019 06:21:56 am
+Table 'kcador.services' doesn't exist PAGE =>/kcador/admin/services.php 23/01/2019 06:21:58 am
+Table 'kcador.services' doesn't exist PAGE =>/kcador/admin/services.php 23/01/2019 06:23:04 am
